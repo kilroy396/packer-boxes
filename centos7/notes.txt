@@ -1,0 +1,2 @@
+packer build box-config.json
+packer build --only=vmware-iso box-config.json
